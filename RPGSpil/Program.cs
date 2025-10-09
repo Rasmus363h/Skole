@@ -1,4 +1,6 @@
-﻿namespace RPGSpil;
+﻿using System.Data;
+
+namespace RPGSpil;
 
 class Program
 {
@@ -10,6 +12,13 @@ class Program
         
         //intro tekst før spillet starter
         Console.WriteLine("WIP");
+        string valgPåStartSkaermen = Console.ReadLine();
+        while ()
+        {
+            
+        }
+        Console.Clear();
+        
         
     }
 }
