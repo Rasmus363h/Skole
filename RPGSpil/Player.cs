@@ -16,26 +16,36 @@ public class Player
     }
     
     Random rnd = new Random();     
-    public int light()
+    (int damage, bool crit) light()
     {
         int attack = rnd.Next(2, 3);
         bool trueorfalse = crit();
         if (trueorfalse = true)
         {
-           // attack = Convert.ToDouble(attack) * 1.33);
+            attack = (int)Math.Round(attack * 1.5);
         }
-        return 1;
+        return (attack, trueorfalse);
     }
-    public int medium()
+    (int damage, bool crit) medium()
     {
-        int attack = rnd.Next(1, 3);     
-        return 1;
-    }                       
-    public int heavy()
+        int attack = rnd.Next(2, 3);
+        bool trueorfalse = crit();
+        if (trueorfalse = true)
+        {
+            attack = (int)Math.Round(attack * 1.5);
+        }
+        return (attack, trueorfalse);
+    }
+    (int damage, bool crit) heavy()
     {
-        int attack = rnd.Next(1, 3);     
-        return 1;
-    }              
+        int attack = rnd.Next(2, 3);
+        bool trueorfalse = crit();
+        if (trueorfalse = true)
+        {
+            attack = (int)Math.Round(attack * 1.5);
+        }
+        return (attack, trueorfalse);
+    }
     public int block()
     {
         int blocked = rnd.Next(1, 3);     
