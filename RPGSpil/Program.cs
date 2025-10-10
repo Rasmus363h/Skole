@@ -29,5 +29,6 @@ class Program
         
         //muligheder for hvilke angreb du kan bruge
         Console.WriteLine("");
+        Console.WriteLine();
     }
 }
