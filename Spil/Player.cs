@@ -24,7 +24,7 @@ public class Player
     Random rnd = new Random();
 
     //laver en metode ved navn light som er et angreb for playeren
-    (int damage, bool crit) light()
+    public (int damage, bool crit) light()
     {
         int attack = rnd.Next(1, 2);
 
@@ -41,7 +41,7 @@ public class Player
         return (attack, trueorfalse);
     }
 
-    (int damage, bool crit) medium()
+    public (int damage, bool crit) medium()
     {
         int attack = rnd.Next(2, 3);
         bool trueorfalse = crit();
@@ -54,7 +54,7 @@ public class Player
         return (attack, trueorfalse);
     }
 
-    (int damage, bool crit) heavy()
+    public (int damage, bool crit) heavy()
     {
         int attack = rnd.Next(3, 4);
         bool trueorfalse = crit();

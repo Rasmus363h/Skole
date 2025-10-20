@@ -5,8 +5,8 @@ namespace Spil;
 class Program
 {
     //skaber både en player og et monster
-    Player Player = new Player();
-    Goblin Goblin = new Goblin();
+    static Player Player = new Player();
+    static Goblin Goblin = new Goblin();
     
     static void Main(string[] args)
     {
@@ -20,10 +20,10 @@ class Program
             Console.Clear();
         }
         Program spil = new Program();
-        spil.runde();
+        runde();
 
     }
-    private void runde()
+    static private void runde()
     {
         string valg = null;
         while (valg != "light" && valg != "medium" && valg != "heavy" && valg != "block" && valg != "rest" && valg != "heal")
@@ -40,6 +40,31 @@ class Program
             Console.WriteLine("light | medium | heavy | block | rest | heal");
             valg = Console.ReadLine();
         }
+
+        /*switch (valg)
+        {
+            case "light":
+                Player.light();
+                break;
+            case "medium":
+                Player.MediumAttack(Goblin);
+                break;
+            case "heavy":
+                Player.HeavyAttack(Goblin);
+                break;
+            case "block":
+                Player.Block();
+                break;
+            case "rest":
+                Player.Rest();
+                break;
+            case "heal":
+                Player.Heal();
+                break;
+            default:
+                Console.WriteLine("Ugyldigt valg.");
+                break;
+        }*/
     }
 
 }
