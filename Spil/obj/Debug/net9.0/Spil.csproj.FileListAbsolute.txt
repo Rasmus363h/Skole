@@ -1,0 +1,15 @@
+/Users/rasmus/Documents/GitHub/Skole1/Spil/bin/Debug/net9.0/Spil
+/Users/rasmus/Documents/GitHub/Skole1/Spil/bin/Debug/net9.0/Spil.deps.json
+/Users/rasmus/Documents/GitHub/Skole1/Spil/bin/Debug/net9.0/Spil.runtimeconfig.json
+/Users/rasmus/Documents/GitHub/Skole1/Spil/bin/Debug/net9.0/Spil.dll
+/Users/rasmus/Documents/GitHub/Skole1/Spil/bin/Debug/net9.0/Spil.pdb
+/Users/rasmus/Documents/GitHub/Skole1/Spil/obj/Debug/net9.0/Spil.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rasmus/Documents/GitHub/Skole1/Spil/obj/Debug/net9.0/Spil.AssemblyInfoInputs.cache
+/Users/rasmus/Documents/GitHub/Skole1/Spil/obj/Debug/net9.0/Spil.AssemblyInfo.cs
+/Users/rasmus/Documents/GitHub/Skole1/Spil/obj/Debug/net9.0/Spil.csproj.CoreCompileInputs.cache
+/Users/rasmus/Documents/GitHub/Skole1/Spil/obj/Debug/net9.0/Spil.sourcelink.json
+/Users/rasmus/Documents/GitHub/Skole1/Spil/obj/Debug/net9.0/Spil.dll
+/Users/rasmus/Documents/GitHub/Skole1/Spil/obj/Debug/net9.0/refint/Spil.dll
+/Users/rasmus/Documents/GitHub/Skole1/Spil/obj/Debug/net9.0/Spil.pdb
+/Users/rasmus/Documents/GitHub/Skole1/Spil/obj/Debug/net9.0/Spil.genruntimeconfig.cache
+/Users/rasmus/Documents/GitHub/Skole1/Spil/obj/Debug/net9.0/ref/Spil.dll
