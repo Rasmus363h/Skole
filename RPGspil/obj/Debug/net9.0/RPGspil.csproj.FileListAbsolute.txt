@@ -1,0 +1,15 @@
+/Users/rasmus/Documents/GitHub/Skole1/RPGspil/obj/Debug/net9.0/RPGspil.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rasmus/Documents/GitHub/Skole1/RPGspil/obj/Debug/net9.0/RPGspil.AssemblyInfoInputs.cache
+/Users/rasmus/Documents/GitHub/Skole1/RPGspil/obj/Debug/net9.0/RPGspil.AssemblyInfo.cs
+/Users/rasmus/Documents/GitHub/Skole1/RPGspil/obj/Debug/net9.0/RPGspil.csproj.CoreCompileInputs.cache
+/Users/rasmus/Documents/GitHub/Skole1/RPGspil/obj/Debug/net9.0/RPGspil.sourcelink.json
+/Users/rasmus/Documents/GitHub/Skole1/RPGspil/bin/Debug/net9.0/RPGspil
+/Users/rasmus/Documents/GitHub/Skole1/RPGspil/bin/Debug/net9.0/RPGspil.deps.json
+/Users/rasmus/Documents/GitHub/Skole1/RPGspil/bin/Debug/net9.0/RPGspil.runtimeconfig.json
+/Users/rasmus/Documents/GitHub/Skole1/RPGspil/bin/Debug/net9.0/RPGspil.dll
+/Users/rasmus/Documents/GitHub/Skole1/RPGspil/bin/Debug/net9.0/RPGspil.pdb
+/Users/rasmus/Documents/GitHub/Skole1/RPGspil/obj/Debug/net9.0/RPGspil.dll
+/Users/rasmus/Documents/GitHub/Skole1/RPGspil/obj/Debug/net9.0/refint/RPGspil.dll
+/Users/rasmus/Documents/GitHub/Skole1/RPGspil/obj/Debug/net9.0/RPGspil.pdb
+/Users/rasmus/Documents/GitHub/Skole1/RPGspil/obj/Debug/net9.0/RPGspil.genruntimeconfig.cache
+/Users/rasmus/Documents/GitHub/Skole1/RPGspil/obj/Debug/net9.0/ref/RPGspil.dll
