@@ -71,9 +71,15 @@ public class Player
     public int block()
     {
         int blocked = rnd.Next(1, 3);
+        _energi--;
         return blocked;
+        
     }
-
+    public void rest()
+    {
+        int energi = rnd.Next(1, 3);
+        _energi += energi;
+    }
     public bool crit()
     {
         //tager et tal mellem 1 og 4 og hvis tallet er 1 vil den retunere true hvis ikke giver den false
